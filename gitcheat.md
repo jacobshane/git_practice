@@ -8,5 +8,7 @@ git config --list
 git init
 git remote add origin [URL of your remote repo]
 git remote -v
-
+git status
+git add
+git commit -m "[message]"
 
