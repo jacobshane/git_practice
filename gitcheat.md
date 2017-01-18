@@ -9,6 +9,8 @@ git init
 git remote add origin [URL of your remote repo]
 git remote -v
 git status
-git add
+git add .
+git add --all
 git commit -m "[message]"
-
+git log
+git push origin master
